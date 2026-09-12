@@ -29,9 +29,7 @@
 
 
 
-- **Architected** a reusable, plugin-based reconciliation orchestration platform — now adopted **bank-wide**, replacing ad-hoc per-domain validation.
-
-- **Pioneered AI-augmented SDLC** — GitHub Copilot CLI agents for Jira-to-PR planning, automated code/security review, and test scaffolding.
+- **Architected and developed** a reusable, plugin-based reconciliation orchestration platform — ad-hoc per-domain validation.
 
 
 
