@@ -141,7 +141,8 @@
 
 ## 🏆 Certificates
 
-- **Google Cloud Certified Associate Cloud Engineer** &nbsp;·&nbsp; `Oct 2022 – Oct 2025`
+-  **Global Enterprise Engineer 2025**
+-  **Google Cloud Certified Associate Cloud Engineer** &nbsp;·&nbsp; `Oct 2022 – Oct 2025`
 
 - **DOEACC 'O' Level Certificate** — Grade B &nbsp;·&nbsp; `2006`
 
